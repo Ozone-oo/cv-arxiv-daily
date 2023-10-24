@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#change-detection>Change Detection</a></li>
   </ol>
 </details>
 
@@ -2070,6 +2071,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
+
+## Change Detection
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214](http://arxiv.org/abs/2310.14214)|null|
+|**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627](http://arxiv.org/abs/2310.13627)|null|
+|**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417](http://arxiv.org/abs/2310.11417)|**[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)**|
+|**2023-10-16**|**Can Word Sense Distribution Detect Semantic Changes of Words?**|Xiaohang Tang et.al.|[2310.10400](http://arxiv.org/abs/2310.10400)|**[link](https://github.com/LivNLP/Sense-based-Semantic-Change-Prediction)**|
+|**2023-10-16**|**The Road to On-board Change Detection: A Lightweight Patch-Level Change Detection Network via Exploring the Potential of Pruning and Pooling**|Lihui Xue et.al.|[2310.10166](http://arxiv.org/abs/2310.10166)|null|
+|**2023-10-17**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759](http://arxiv.org/abs/2310.09759)|null|
+|**2023-10-14**|**Robust Quickest Change Detection in Non-Stationary Processes**|Yingze Hou et.al.|[2310.09673](http://arxiv.org/abs/2310.09673)|null|
+|**2023-10-21**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276](http://arxiv.org/abs/2310.09276)|**[link](https://github.com/qaz670756/mmcd)**|
+|**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789](http://arxiv.org/abs/2310.08789)|null|
+|**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671](http://arxiv.org/abs/2310.08671)|**[link](https://github.com/feevos/ssg2)**|
 
 <p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
