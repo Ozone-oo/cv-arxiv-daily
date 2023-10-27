@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223](http://arxiv.org/abs/2310.17223)|null|
 |**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214](http://arxiv.org/abs/2310.14214)|null|
 |**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627](http://arxiv.org/abs/2310.13627)|null|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417](http://arxiv.org/abs/2310.11417)|**[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)**|
