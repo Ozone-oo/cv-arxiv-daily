@@ -2078,6 +2078,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339](http://arxiv.org/abs/2311.03339)|null|
+|**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124](http://arxiv.org/abs/2311.03124)|null|
+|**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558](http://arxiv.org/abs/2311.02558)|null|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Measuring Behavior Change with Observational Studies: a Review**|Arianna Pera et.al.|[2310.19951](http://arxiv.org/abs/2310.19951)|null|
 |**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223](http://arxiv.org/abs/2310.17223)|null|
