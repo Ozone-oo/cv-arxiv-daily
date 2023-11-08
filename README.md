@@ -2078,6 +2078,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889](http://arxiv.org/abs/2311.03889)|null|
+|**2023-11-07**|**Image change detection with only a few samples**|Ke Liu et.al.|[2311.03762](http://arxiv.org/abs/2311.03762)|null|
+|**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679](http://arxiv.org/abs/2311.03679)|null|
 |**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339](http://arxiv.org/abs/2311.03339)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124](http://arxiv.org/abs/2311.03124)|null|
 |**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558](http://arxiv.org/abs/2311.02558)|null|
