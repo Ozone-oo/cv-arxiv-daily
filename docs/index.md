@@ -2057,11 +2057,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311](http://arxiv.org/abs/2312.15311)|null|
+|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090](http://arxiv.org/abs/2312.15090)|null|
 |**2023-12-10**|**Large Language Models on Lexical Semantic Change Detection: An Evaluation**|Ruiyu Wang et.al.|[2312.06002](http://arxiv.org/abs/2312.06002)|null|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869](http://arxiv.org/abs/2312.04869)|null|
 |**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176](http://arxiv.org/abs/2312.03176)|null|
 |**2023-12-05**|**Online Change Detection in SAR Time-Series with Kronecker Product Structured Scaled Gaussian Models**|Ammar Mian et.al.|[2312.02807](http://arxiv.org/abs/2312.02807)|null|
-|**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/abs/2312.02751)|**[link](https://github.com/c-nerf/c-nerf)**|
+|**2023-12-23**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/abs/2312.02751)|**[link](https://github.com/c-nerf/c-nerf)**|
 |**2023-12-05**|**Graph Information Bottleneck for Remote Sensing Segmentation**|Yuntao Shou et.al.|[2312.02545](http://arxiv.org/abs/2312.02545)|null|
 |**2023-12-11**|**Unsupervised Change Detection for Space Habitats Using 3D Point Clouds**|Jamie Santos et.al.|[2312.02396](http://arxiv.org/abs/2312.02396)|**[link](https://github.com/nasa/isaac)**|
 |**2023-12-02**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|Kaiyu Li et.al.|[2312.01163](http://arxiv.org/abs/2312.01163)|**[link](https://github.com/likyoo/ban)**|
