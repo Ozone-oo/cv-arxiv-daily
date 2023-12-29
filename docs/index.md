@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2058,7 +2058,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311](http://arxiv.org/abs/2312.15311)|null|
-|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090](http://arxiv.org/abs/2312.15090)|null|
+|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090](http://arxiv.org/abs/2312.15090)|**[link](https://github.com/glotzerlab/dupin)**|
 |**2023-12-10**|**Large Language Models on Lexical Semantic Change Detection: An Evaluation**|Ruiyu Wang et.al.|[2312.06002](http://arxiv.org/abs/2312.06002)|null|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869](http://arxiv.org/abs/2312.04869)|null|
 |**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176](http://arxiv.org/abs/2312.03176)|null|
