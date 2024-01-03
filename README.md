@@ -2078,13 +2078,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107](http://arxiv.org/abs/2401.01107)|null|
 |**2023-12-29**|**ChangeNet: Multi-Temporal Asymmetric Change Detection Dataset**|Deyi Ji et.al.|[2312.17428](http://arxiv.org/abs/2312.17428)|null|
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965](http://arxiv.org/abs/2312.16965)|null|
 |**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875](http://arxiv.org/abs/2312.16875)|null|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410](http://arxiv.org/abs/2312.16410)|**[link](https://github.com/stephenapx/ucd-scm)**|
 |**2023-12-23**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Keyan Chen et.al.|[2312.16202](http://arxiv.org/abs/2312.16202)|**[link](https://github.com/KyanChen/TTP)**|
 |**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311](http://arxiv.org/abs/2312.15311)|null|
-|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090](http://arxiv.org/abs/2312.15090)|**[link](https://github.com/glotzerlab/dupin)**|
+|**2024-01-02**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090](http://arxiv.org/abs/2312.15090)|**[link](https://github.com/glotzerlab/dupin)**|
 |**2023-12-10**|**Large Language Models on Lexical Semantic Change Detection: An Evaluation**|Ruiyu Wang et.al.|[2312.06002](http://arxiv.org/abs/2312.06002)|null|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869](http://arxiv.org/abs/2312.04869)|null|
 |**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176](http://arxiv.org/abs/2312.03176)|null|
