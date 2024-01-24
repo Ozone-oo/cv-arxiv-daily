@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499](http://arxiv.org/abs/2401.12499)|null|
 |**2024-01-21**|**MapChange: Enhancing Semantic Change Detection with Temporal-Invariant Historical Maps Based on Deep Triplet Network**|Yinhe Liu et.al.|[2401.11489](http://arxiv.org/abs/2401.11489)|null|
 |**2024-01-19**|**HiCD: Change Detection in Quality-Varied Images via Hierarchical Correlation Distillation**|Chao Pang et.al.|[2401.10752](http://arxiv.org/abs/2401.10752)|**[link](https://github.com/fitzpchao/hicd)**|
 |**2024-01-18**|**Regime change detection in irregularly sampled time series**|Norbert Marwan et.al.|[2401.10006](http://arxiv.org/abs/2401.10006)|null|
