@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2059,7 +2059,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-02**|**Segment Any Change**|Zhuo Zheng et.al.|[2402.01188](http://arxiv.org/abs/2402.01188)|null|
 |**2024-02-01**|**The prices of renewable commodities: A robust stationarity analysis**|Manuel Landajo et.al.|[2402.01005](http://arxiv.org/abs/2402.01005)|null|
-|**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600](http://arxiv.org/abs/2401.17600)|null|
+|**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600](http://arxiv.org/abs/2401.17600)|**[link](https://github.com/Earth-Intelligence-Lab/vleo-bench)**|
 |**2024-01-25**|**(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection**|Francesco Periti et.al.|[2401.14040](http://arxiv.org/abs/2401.14040)|**[link](https://github.com/francescoperiti/chatgptvbert)**|
 |**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877](http://arxiv.org/abs/2401.13877)|null|
 |**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499](http://arxiv.org/abs/2401.12499)|null|
