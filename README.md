@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321](http://arxiv.org/abs/2402.10321)|null|
+|**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291](http://arxiv.org/abs/2402.10291)|null|
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781](http://arxiv.org/abs/2402.09781)|null|
 |**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743](http://arxiv.org/abs/2402.09743)|null|
 |**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994](http://arxiv.org/abs/2402.06994)|**[link](https://github.com/isaaccorley/a-change-detection-reality-check)**|
