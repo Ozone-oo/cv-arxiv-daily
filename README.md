@@ -2078,7 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128](http://arxiv.org/abs/2402.17128)|**[link](https://github.com/nguyennm1024/oscar)**|
+|**2024-02-28**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128](http://arxiv.org/abs/2402.17128)|**[link](https://github.com/nguyennm1024/oscar)**|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596](http://arxiv.org/abs/2402.16596)|null|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242](http://arxiv.org/abs/2402.16242)|null|
 |**2024-02-22**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011](http://arxiv.org/abs/2402.12011)|**[link](https://github.com/francescoperiti/cssdetection)**|
