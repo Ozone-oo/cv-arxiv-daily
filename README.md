@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564](http://arxiv.org/abs/2403.07564)|**[link](https://github.com/meize0729/rsbuilding)**|
+|**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213](http://arxiv.org/abs/2403.07213)|null|
 |**2024-03-09**|**Weakly Supervised Change Detection via Knowledge Distillation and Multiscale Sigmoid Inference**|Binghao Lu et.al.|[2403.05796](http://arxiv.org/abs/2403.05796)|**[link](https://github.com/binghaolu/kd-msi)**|
 |**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385](http://arxiv.org/abs/2403.04385)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
