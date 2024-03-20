@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Large-scale flood modeling and forecasting with FloodCast**|Qingsong Xu et.al.|[2403.12226](http://arxiv.org/abs/2403.12226)|**[link](https://github.com/hydropml/floodcast)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280](http://arxiv.org/abs/2403.08280)|null|
 |**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564](http://arxiv.org/abs/2403.07564)|**[link](https://github.com/meize0729/rsbuilding)**|
