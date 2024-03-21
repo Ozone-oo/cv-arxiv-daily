@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2066,7 +2066,7 @@ layout: default
 |**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385](http://arxiv.org/abs/2403.04385)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226](http://arxiv.org/abs/2403.00226)|**[link](https://github.com/a1da4/svp-sdml)**|
-|**2024-02-28**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128](http://arxiv.org/abs/2402.17128)|**[link](https://github.com/nguyennm1024/oscar)**|
+|**2024-03-20**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128](http://arxiv.org/abs/2402.17128)|**[link](https://github.com/nguyennm1024/oscar)**|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596](http://arxiv.org/abs/2402.16596)|null|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242](http://arxiv.org/abs/2402.16242)|null|
 |**2024-03-08**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011](http://arxiv.org/abs/2402.12011)|**[link](https://github.com/francescoperiti/cssdetection)**|
