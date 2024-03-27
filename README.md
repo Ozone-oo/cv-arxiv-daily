@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-24**|**Round Robin Active Sequential Change Detection for Dependent Multi-Channel Data**|Anamitra Chaudhuri et.al.|[2403.16297](http://arxiv.org/abs/2403.16297)|null|
 |**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943](http://arxiv.org/abs/2403.15943)|null|
 |**2024-03-22**|**An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images**|Zilin Xie et.al.|[2403.15032](http://arxiv.org/abs/2403.15032)|null|
