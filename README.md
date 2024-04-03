@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
+|**2024-03-29**|**The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**|Dominik Schlechtweg et.al.|[2404.00176](http://arxiv.org/abs/2404.00176)|null|
 |**2024-04-01**|**Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|**[link](https://github.com/chen-yang-liu/change-agent)**|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-24**|**Round Robin Active Sequential Change Detection for Dependent Multi-Channel Data**|Anamitra Chaudhuri et.al.|[2403.16297](http://arxiv.org/abs/2403.16297)|null|
