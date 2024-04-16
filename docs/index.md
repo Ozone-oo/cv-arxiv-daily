@@ -2057,6 +2057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery**|Chengxi Han et.al.|[2404.09179](http://arxiv.org/abs/2404.09179)|**[link](https://github.com/chengxihan/cgnet-cd)**|
+|**2024-04-14**|**HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.09178](http://arxiv.org/abs/2404.09178)|**[link](https://github.com/chengxihan/hanet-cd)**|
+|**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|null|
 |**2024-04-08**|**Quickest Change Detection for Multiple Data Streams Using the James-Stein Estimator**|Topi Halme et.al.|[2404.05486](http://arxiv.org/abs/2404.05486)|null|
 |**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884](http://arxiv.org/abs/2404.04884)|null|
 |**2024-04-14**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
