@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2059,7 +2059,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**Quickest Change Detection for Multiple Data Streams Using the James-Stein Estimator**|Topi Halme et.al.|[2404.05486](http://arxiv.org/abs/2404.05486)|null|
 |**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884](http://arxiv.org/abs/2404.04884)|null|
-|**2024-04-11**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
+|**2024-04-14**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
 |**2024-04-10**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
 |**2024-03-29**|**The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**|Dominik Schlechtweg et.al.|[2404.00176](http://arxiv.org/abs/2404.00176)|null|
