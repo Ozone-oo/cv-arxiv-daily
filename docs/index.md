@@ -2057,6 +2057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065](http://arxiv.org/abs/2405.01065)|**[link](https://github.com/aozakiiii/mfds-net)**|
+|**2024-05-01**|**Artificial intelligence for context-aware visual change detection in software test automation**|Milad Moradi et.al.|[2405.00874](http://arxiv.org/abs/2405.00874)|null|
+|**2024-05-01**|**Quickest Change Detection with Confusing Change**|Yu-Zhen Janice Chen et.al.|[2405.00842](http://arxiv.org/abs/2405.00842)|null|
 |**2024-04-29**|**Analyzing Semantic Change through Lexical Replacements**|Francesco Periti et.al.|[2404.18570](http://arxiv.org/abs/2404.18570)|**[link](https://github.com/changeiskey/asc-lr)**|
 |**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765](http://arxiv.org/abs/2404.17765)|**[link](https://github.com/hhaizee/rfl-cdnet)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565](http://arxiv.org/abs/2404.17565)|**[link](https://github.com/techmn/changebind)**|
