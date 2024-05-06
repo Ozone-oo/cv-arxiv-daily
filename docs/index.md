@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920](http://arxiv.org/abs/2405.01920)|null|
 |**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065](http://arxiv.org/abs/2405.01065)|**[link](https://github.com/aozakiiii/mfds-net)**|
 |**2024-05-01**|**Artificial intelligence for context-aware visual change detection in software test automation**|Milad Moradi et.al.|[2405.00874](http://arxiv.org/abs/2405.00874)|null|
 |**2024-05-01**|**Quickest Change Detection with Confusing Change**|Yu-Zhen Janice Chen et.al.|[2405.00842](http://arxiv.org/abs/2405.00842)|null|
