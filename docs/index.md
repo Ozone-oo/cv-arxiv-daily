@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788](http://arxiv.org/abs/2405.04788)|**[link](https://github.com/likyoo/diffmatch)**|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372](http://arxiv.org/abs/2405.02372)|null|
 |**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920](http://arxiv.org/abs/2405.01920)|null|
 |**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065](http://arxiv.org/abs/2405.01065)|**[link](https://github.com/aozakiiii/mfds-net)**|
