@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724](http://arxiv.org/abs/2405.05724)|null|
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788](http://arxiv.org/abs/2405.04788)|**[link](https://github.com/likyoo/diffmatch)**|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372](http://arxiv.org/abs/2405.02372)|null|
 |**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920](http://arxiv.org/abs/2405.01920)|null|
