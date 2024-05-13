@@ -2078,6 +2078,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323](http://arxiv.org/abs/2405.06323)|null|
+|**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
+|**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185](http://arxiv.org/abs/2405.06185)|null|
 |**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724](http://arxiv.org/abs/2405.05724)|null|
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788](http://arxiv.org/abs/2405.04788)|**[link](https://github.com/likyoo/diffmatch)**|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372](http://arxiv.org/abs/2405.02372)|null|
