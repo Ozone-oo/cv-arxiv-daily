@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511](http://arxiv.org/abs/2405.11511)|null|
 |**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896](http://arxiv.org/abs/2405.09896)|null|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
 |**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933](http://arxiv.org/abs/2405.06933)|null|
