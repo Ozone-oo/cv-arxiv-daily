@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670](http://arxiv.org/abs/2405.15670)|null|
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214](http://arxiv.org/abs/2405.14214)|null|
 |**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511](http://arxiv.org/abs/2405.11511)|null|
 |**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896](http://arxiv.org/abs/2405.09896)|null|
