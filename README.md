@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224](http://arxiv.org/abs/2405.18224)|null|
 |**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670](http://arxiv.org/abs/2405.15670)|null|
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214](http://arxiv.org/abs/2405.14214)|null|
 |**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511](http://arxiv.org/abs/2405.11511)|null|
