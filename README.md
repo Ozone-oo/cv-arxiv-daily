@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212](http://arxiv.org/abs/2406.04212)|null|
+|**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|null|
 |**2024-06-06**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452](http://arxiv.org/abs/2406.03452)|**[link](https://github.com/ChangeIsKey/change-type-classification)**|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161](http://arxiv.org/abs/2405.20161)|**[link](https://github.com/links-ads/igarss-landslide-delineation)**|
 |**2024-06-05**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
