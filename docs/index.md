@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2058,9 +2058,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-09**|**SRC-Net: Bi-Temporal Spatial Relationship Concerned Network for Change Detection**|Hongjia Chen et.al.|[2406.05668](http://arxiv.org/abs/2406.05668)|**[link](https://github.com/Chnja/SRCNet)**|
-|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212](http://arxiv.org/abs/2406.04212)|null|
+|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212](http://arxiv.org/abs/2406.04212)|**[link](https://github.com/merlresearch/sebbs)**|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|null|
-|**2024-06-06**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452](http://arxiv.org/abs/2406.03452)|**[link](https://github.com/ChangeIsKey/change-type-classification)**|
+|**2024-06-11**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452](http://arxiv.org/abs/2406.03452)|**[link](https://github.com/ChangeIsKey/change-type-classification)**|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161](http://arxiv.org/abs/2405.20161)|**[link](https://github.com/links-ads/igarss-landslide-delineation)**|
 |**2024-06-07**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|**[link](https://github.com/yuanshuai0914/fusu)**|
 |**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224](http://arxiv.org/abs/2405.18224)|**[link](https://github.com/marszhaoyt/sslchange)**|
