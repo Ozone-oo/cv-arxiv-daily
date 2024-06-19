@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
+|**2024-06-18**|**Scintillation velocity and arc observations of FRB 20201124A**|Ziwei Wu et.al.|[2406.12218](http://arxiv.org/abs/2406.12218)|null|
 |**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210](http://arxiv.org/abs/2406.11210)|null|
 |**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678](http://arxiv.org/abs/2406.10678)|**[link](https://github.com/STORMTROOPERRR/RSISCD)**|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731](http://arxiv.org/abs/2406.09731)|null|
