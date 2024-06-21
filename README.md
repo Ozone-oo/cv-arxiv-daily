@@ -2078,6 +2078,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167](http://arxiv.org/abs/2406.14167)|null|
+|**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107](http://arxiv.org/abs/2406.14107)|null|
+|**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606](http://arxiv.org/abs/2406.13606)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
 |**2024-06-18**|**Scintillation velocity and arc observations of FRB 20201124A**|Ziwei Wu et.al.|[2406.12218](http://arxiv.org/abs/2406.12218)|null|
 |**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210](http://arxiv.org/abs/2406.11210)|null|
