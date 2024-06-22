@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2057,7 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167](http://arxiv.org/abs/2406.14167)|null|
+|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167](http://arxiv.org/abs/2406.14167)|**[link](https://github.com/ltgoslo/Definition-generation-for-LSCD)**|
 |**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107](http://arxiv.org/abs/2406.14107)|null|
 |**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606](http://arxiv.org/abs/2406.13606)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
