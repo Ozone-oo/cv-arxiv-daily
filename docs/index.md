@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949](http://arxiv.org/abs/2407.00949)|null|
+|**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|null|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998](http://arxiv.org/abs/2406.17998)|null|
 |**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458](http://arxiv.org/abs/2406.17458)|**[link](https://github.com/sebastianhafner/conturbancd)**|
 |**2024-06-23**|**Distribution-Free Online Change Detection for Low-Rank Images**|Tingnan Gong et.al.|[2406.16136](http://arxiv.org/abs/2406.16136)|null|
