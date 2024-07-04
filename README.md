@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178](http://arxiv.org/abs/2407.03178)|null|
+|**2024-07-03**|**Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes**|Taichi Aida et.al.|[2407.02820](http://arxiv.org/abs/2407.02820)|**[link](https://github.com/livnlp/svp-dims)**|
 |**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949](http://arxiv.org/abs/2407.00949)|null|
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|null|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998](http://arxiv.org/abs/2406.17998)|null|
