@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063](http://arxiv.org/abs/2407.05063)|null|
 |**2024-07-05**|**TokenVerse: Unifying Speech and NLP Tasks via Transducer-based ASR**|Shashi Kumar et.al.|[2407.04444](http://arxiv.org/abs/2407.04444)|null|
 |**2024-07-04**|**MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery**|Weikang Yu et.al.|[2407.03971](http://arxiv.org/abs/2407.03971)|null|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695](http://arxiv.org/abs/2407.03695)|null|
