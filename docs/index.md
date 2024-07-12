@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448](http://arxiv.org/abs/2407.08448)|null|
 |**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616](http://arxiv.org/abs/2407.07616)|**[link](https://github.com/elliotvincent/sitsscd)**|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|null|
 |**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063](http://arxiv.org/abs/2407.05063)|null|
