@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Integrated Dynamic Phenological Feature for Remote Sensing Image Land Cover Change Detection**|Yi Liu et.al.|[2408.04144](http://arxiv.org/abs/2408.04144)|null|
+|**2024-08-07**|**Testing for a general changepoint in psychometric studies: changes detection and sample size planning**|Nicoletta D'Angelo et.al.|[2408.04056](http://arxiv.org/abs/2408.04056)|null|
 |**2024-07-23**|**Cross-Domain Separable Translation Network for Multimodal Image Change Detection**|Tao Zhan et.al.|[2407.16158](http://arxiv.org/abs/2407.16158)|**[link](https://github.com/omega-rs/cstn)**|
 |**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999](http://arxiv.org/abs/2407.15999)|**[link](https://github.com/dyzy41/mmrscd)**|
 |**2024-07-22**|**Open-CD: A Comprehensive Toolbox for Change Detection**|Kaiyu Li et.al.|[2407.15317](http://arxiv.org/abs/2407.15317)|**[link](https://github.com/likyoo/open-cd)**|
