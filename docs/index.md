@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**High Probability Low Latency Sequential Change Detection over an Unknown Finite Horizon**|Yu-Han Huang et.al.|[2408.05817](http://arxiv.org/abs/2408.05817)|null|
 |**2024-08-08**|**Integrated Dynamic Phenological Feature for Remote Sensing Image Land Cover Change Detection**|Yi Liu et.al.|[2408.04144](http://arxiv.org/abs/2408.04144)|null|
 |**2024-08-07**|**Testing for a general changepoint in psychometric studies: changes detection and sample size planning**|Nicoletta D'Angelo et.al.|[2408.04056](http://arxiv.org/abs/2408.04056)|null|
 |**2024-07-23**|**Cross-Domain Separable Translation Network for Multimodal Image Change Detection**|Tao Zhan et.al.|[2407.16158](http://arxiv.org/abs/2407.16158)|**[link](https://github.com/omega-rs/cstn)**|
