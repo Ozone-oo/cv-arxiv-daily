@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431](http://arxiv.org/abs/2408.14431)|null|
 |**2024-08-23**|**Find the Assembly Mistakes: Error Segmentation for Industrial Applications**|Dan Lehman et.al.|[2408.12945](http://arxiv.org/abs/2408.12945)|null|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527](http://arxiv.org/abs/2408.12527)|**[link](https://github.com/imrl/umad)**|
 |**2024-08-20**|**Asymmetric Graph Error Control with Low Complexity in Causal Bandits**|Chen Peng et.al.|[2408.11240](http://arxiv.org/abs/2408.11240)|null|
