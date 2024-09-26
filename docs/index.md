@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2057,6 +2057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255](http://arxiv.org/abs/2409.15255)|null|
+|**2024-09-23**|**Cross Branch Feature Fusion Decoder for Consistency Regularization-based Semi-Supervised Change Detection**|Yan Xing et.al.|[2409.15021](http://arxiv.org/abs/2409.15021)|null|
+|**2024-09-19**|**Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning**|Cong Yang et.al.|[2409.12612](http://arxiv.org/abs/2409.12612)|**[link](https://github.com/yangcong356/kcfi)**|
 |**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178](http://arxiv.org/abs/2409.10178)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
