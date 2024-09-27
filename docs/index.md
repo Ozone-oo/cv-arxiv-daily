@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel**|Jialin Li et.al.|[2409.18000](http://arxiv.org/abs/2409.18000)|null|
 |**2024-09-25**|**Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms**|Chun-Jung Lin et.al.|[2409.16850](http://arxiv.org/abs/2409.16850)|null|
 |**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255](http://arxiv.org/abs/2409.15255)|null|
 |**2024-09-23**|**Cross Branch Feature Fusion Decoder for Consistency Regularization-based Semi-Supervised Change Detection**|Yan Xing et.al.|[2409.15021](http://arxiv.org/abs/2409.15021)|null|
