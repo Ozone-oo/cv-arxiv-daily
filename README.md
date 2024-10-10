@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Jeremy Andrew Irvin et.al.|[2410.06234](http://arxiv.org/abs/2410.06234)|null|
+|**2024-10-08**|**Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits**|Kuan-Ta Li et.al.|[2410.05734](http://arxiv.org/abs/2410.05734)|null|
 |**2024-10-04**|**Robust Quickest Correlation Change Detection in High-Dimensional Random Vectors**|Assma Alghamdi et.al.|[2410.03593](http://arxiv.org/abs/2410.03593)|null|
 |**2024-09-26**|**Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel**|Jialin Li et.al.|[2409.18000](http://arxiv.org/abs/2409.18000)|null|
 |**2024-09-25**|**Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms**|Chun-Jung Lin et.al.|[2409.16850](http://arxiv.org/abs/2409.16850)|null|
