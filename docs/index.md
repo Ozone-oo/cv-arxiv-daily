@@ -2058,7 +2058,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
-|**2024-10-10**|**Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits**|Yunlong Hou et.al.|[2410.07638](http://arxiv.org/abs/2410.07638)|null|
+|**2024-10-10**|**Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits**|Yunlong Hou et.al.|[2410.07638](http://arxiv.org/abs/2410.07638)|**[link](https://github.com/Y-Hou/BAI-in-PSLB)**|
 |**2024-10-08**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Jeremy Andrew Irvin et.al.|[2410.06234](http://arxiv.org/abs/2410.06234)|**[link](https://github.com/ermongroup/teochat)**|
 |**2024-10-08**|**Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits**|Kuan-Ta Li et.al.|[2410.05734](http://arxiv.org/abs/2410.05734)|null|
 |**2024-10-04**|**Robust Quickest Correlation Change Detection in High-Dimensional Random Vectors**|Assma Alghamdi et.al.|[2410.03593](http://arxiv.org/abs/2410.03593)|null|
