@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
+|**2024-10-12**|**Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images**|Yi Xiao et.al.|[2410.09539](http://arxiv.org/abs/2410.09539)|null|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
 |**2024-10-10**|**Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits**|Yunlong Hou et.al.|[2410.07638](http://arxiv.org/abs/2410.07638)|**[link](https://github.com/Y-Hou/BAI-in-PSLB)**|
 |**2024-10-08**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Jeremy Andrew Irvin et.al.|[2410.06234](http://arxiv.org/abs/2410.06234)|**[link](https://github.com/ermongroup/teochat)**|
