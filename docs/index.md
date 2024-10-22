@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2059,7 +2059,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-18**|**Asymptotically Optimal Change Detection for Unnormalized Pre- and Post-Change Distributions**|Arman Adibi et.al.|[2410.14615](http://arxiv.org/abs/2410.14615)|null|
 |**2024-10-17**|**Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree**|Michelangelo Olmo Nogara Notarianni et.al.|[2410.13778](http://arxiv.org/abs/2410.13778)|null|
-|**2024-10-17**|**Is Prior-Free Black-Box Non-Stationary Reinforcement Learning Feasible?**|Argyrios Gerogiannis et.al.|[2410.13772](http://arxiv.org/abs/2410.13772)|null|
+|**2024-10-21**|**Is Prior-Free Black-Box Non-Stationary Reinforcement Learning Feasible?**|Argyrios Gerogiannis et.al.|[2410.13772](http://arxiv.org/abs/2410.13772)|null|
 |**2024-10-14**|**LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism**|Wenyu Liu et.al.|[2410.11580](http://arxiv.org/abs/2410.11580)|**[link](https://github.com/wenyuliu6/lcd-net)**|
 |**2024-10-15**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
 |**2024-10-12**|**Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images**|Yi Xiao et.al.|[2410.09539](http://arxiv.org/abs/2410.09539)|null|
