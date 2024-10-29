@@ -2058,7 +2058,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
-|**2024-10-25**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|null|
+|**2024-10-25**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|**[link](https://github.com/richterleo/Auditing_Test_for_LMs)**|
 |**2024-10-23**|**Signature-based IaaS Performance Change Detection**|Sheik Mohammad Mostakim Fattah et.al.|[2410.17623](http://arxiv.org/abs/2410.17623)|null|
 |**2024-10-23**|**HCDN: A Change Detection Network for Construction Housekeeping Using Feature Fusion and Large Vision Models**|Kailai Sun et.al.|[2410.17513](http://arxiv.org/abs/2410.17513)|**[link](https://github.com/nus-dbe/housekeeping-cd)**|
 |**2024-10-22**|**Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection**|Michael Zichert et.al.|[2410.16855](http://arxiv.org/abs/2410.16855)|**[link](https://github.com/mzichert/scd_vp)**|
