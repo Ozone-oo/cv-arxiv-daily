@@ -2087,7 +2087,7 @@
 |**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|**[link](https://github.com/520xyxyzq/3dgs-cd)**|
 |**2024-11-04**|**Tree level change detection over Ahmedabad city using very high resolution satellite images and Deep Learning**|Jai G Singla et.al.|[2411.02009](http://arxiv.org/abs/2411.02009)|null|
 |**2024-10-31**|**MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**|Ruixun Liu et.al.|[2410.23946](http://arxiv.org/abs/2410.23946)|**[link](https://github.com/liuruixun/mv-cc)**|
-|**2024-10-31**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828](http://arxiv.org/abs/2410.23828)|**[link](https://github.com/like413/vista)**|
+|**2024-11-13**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828](http://arxiv.org/abs/2410.23828)|**[link](https://github.com/like413/vista)**|
 |**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|**[link](https://github.com/HosamGen/GeoLLaVA)**|
 |**2024-10-25**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|**[link](https://github.com/richterleo/Auditing_Test_for_LMs)**|
 |**2024-10-23**|**Signature-based IaaS Performance Change Detection**|Sheik Mohammad Mostakim Fattah et.al.|[2410.17623](http://arxiv.org/abs/2410.17623)|null|
