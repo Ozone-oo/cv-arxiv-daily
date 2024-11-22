@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection**|Ziyi Wang et.al.|[2411.14109](http://arxiv.org/abs/2411.14109)|null|
 |**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-11-12**|**AdaSemiCD: An Adaptive Semi-Supervised Change Detection Method Based on Pseudo-Label Evaluation**|Ran Lingyan et.al.|[2411.07758](http://arxiv.org/abs/2411.07758)|null|
 |**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608](http://arxiv.org/abs/2411.07608)|null|
