@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**The CUSUM Test with Observation-Adjusted Control Limits in Parameters Change Detection for the Extremely Heavy-Tailed Distributions Sequences**|F. Tang et.al.|[2411.14706](http://arxiv.org/abs/2411.14706)|null|
 |**2024-11-21**|**Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection**|Ziyi Wang et.al.|[2411.14109](http://arxiv.org/abs/2411.14109)|**[link](https://github.com/summitgao/glaformer)**|
 |**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-11-12**|**AdaSemiCD: An Adaptive Semi-Supervised Change Detection Method Based on Pseudo-Label Evaluation**|Ran Lingyan et.al.|[2411.07758](http://arxiv.org/abs/2411.07758)|null|
