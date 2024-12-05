@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Validity and efficiency of the conformal CUSUM procedure**|Vladimir Vovk et.al.|[2412.03464](http://arxiv.org/abs/2412.03464)|null|
+|**2024-12-04**|**Benchmarking Attention Mechanisms and Consistency Regularization Semi-Supervised Learning for Post-Flood Building Damage Assessment in Satellite Images**|Jiaxi Yu et.al.|[2412.03015](http://arxiv.org/abs/2412.03015)|null|
 |**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637](http://arxiv.org/abs/2412.02637)|null|
 |**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
