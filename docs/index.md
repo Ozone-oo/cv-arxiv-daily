@@ -2057,8 +2057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-18**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Guillaume Astruc et.al.|[2412.14123](http://arxiv.org/abs/2412.14123)|**[link](https://github.com/gastruc/anysat)**|
-|**2024-12-17**|**Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport**|Ryo Kishino et.al.|[2412.12569](http://arxiv.org/abs/2412.12569)|**[link](https://github.com/ryo-lyo/Semantic-Shift-via-UOT)**|
+|**2024-12-17**|**Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport**|Ryo Kishino et.al.|[2412.12569](http://arxiv.org/abs/2412.12569)|null|
 |**2024-12-10**|**ViewDelta: Text-Prompted Change Detection in Unaligned Images**|Subin Varghese et.al.|[2412.07612](http://arxiv.org/abs/2412.07612)|null|
 |**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-11-27**|**Robust Quickest Change Detection in Multi-Stream Non-Stationary Processes**|Yingze Hou et.al.|[2412.04493](http://arxiv.org/abs/2412.04493)|null|
