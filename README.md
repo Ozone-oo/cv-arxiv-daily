@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-28**|**Robust Quickest Change Detection with Sampling Control**|Yingze Hou et.al.|[2412.20207](http://arxiv.org/abs/2412.20207)|null|
 |**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179](http://arxiv.org/abs/2412.19179)|null|
 |**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247](http://arxiv.org/abs/2412.17247)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918](http://arxiv.org/abs/2412.16918)|null|
