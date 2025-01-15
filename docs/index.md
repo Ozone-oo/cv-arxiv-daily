@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2060,7 +2060,7 @@ layout: default
 |**2025-01-12**|**Semantic-CD: Remote Sensing Image Semantic Change Detection towards Open-vocabulary Setting**|Yongshuo Zhu et.al.|[2501.06808](http://arxiv.org/abs/2501.06808)|null|
 |**2025-01-09**|**Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence**|Hung Huy Nguyen et.al.|[2501.05555](http://arxiv.org/abs/2501.05555)|**[link](https://github.com/anguyen8/image-diff)**|
 |**2025-01-10**|**Plug-and-Play DISep: Separating Dense Instances for Scene-to-Pixel Weakly-Supervised Change Detection in High-Resolution Remote Sensing Images**|Zhenghui Zhao et.al.|[2501.04934](http://arxiv.org/abs/2501.04934)|**[link](https://github.com/zhenghuizhao/plug-and-play-disep-for-change-detection)**|
-|**2025-01-07**|**Multiple testing in multi-stream sequential change detection**|Sanjit Dandapanthula et.al.|[2501.04130](http://arxiv.org/abs/2501.04130)|**[link](https://github.com/sanjitdp/multistream-change-detectors)**|
+|**2025-01-14**|**Multiple testing in multi-stream sequential change detection**|Sanjit Dandapanthula et.al.|[2501.04130](http://arxiv.org/abs/2501.04130)|**[link](https://github.com/sanjitdp/multistream-change-detectors)**|
 |**2025-01-13**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[2501.02763](http://arxiv.org/abs/2501.02763)|null|
 |**2025-01-02**|**Change Detection-Based Procedures for Piecewise Stationary MABs: A Modular Approach**|Yu-Han Huang et.al.|[2501.01291](http://arxiv.org/abs/2501.01291)|null|
 |**2025-01-02**|**EHCTNet: Enhanced Hybrid of CNN and Transformer Network for Remote Sensing Image Change Detection**|Junjie Yang et.al.|[2501.01238](http://arxiv.org/abs/2501.01238)|null|
