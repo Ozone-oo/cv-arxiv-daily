@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-19**|**Sequential Change Detection for Learning in Piecewise Stationary Bandit Environments**|Yu-Han Huang et.al.|[2501.10974](http://arxiv.org/abs/2501.10974)|null|
+|**2025-01-19**|**A Remote Sensing Image Change Detection Method Integrating Layer Exchange and Channel-Spatial Differences**|Sijun Dong et.al.|[2501.10905](http://arxiv.org/abs/2501.10905)|**[link](https://github.com/dyzy41/lenet)**|
 |**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
 |**2025-01-12**|**Semantic-CD: Remote Sensing Image Semantic Change Detection towards Open-vocabulary Setting**|Yongshuo Zhu et.al.|[2501.06808](http://arxiv.org/abs/2501.06808)|null|
 |**2025-01-16**|**Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence**|Hung Huy Nguyen et.al.|[2501.05555](http://arxiv.org/abs/2501.05555)|**[link](https://github.com/anguyen8/image-diff)**|
