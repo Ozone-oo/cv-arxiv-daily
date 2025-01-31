@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-28**|**SCDiar: a streaming diarization system based on speaker change detection and speech recognition**|Naijun Zheng et.al.|[2501.16641](http://arxiv.org/abs/2501.16641)|null|
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
