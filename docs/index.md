@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2066,7 +2066,7 @@ layout: default
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
 |**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
-|**2025-01-19**|**Sequential Change Detection for Learning in Piecewise Stationary Bandit Environments**|Yu-Han Huang et.al.|[2501.10974](http://arxiv.org/abs/2501.10974)|null|
+|**2025-02-07**|**Sequential Change Detection for Learning in Piecewise Stationary Bandit Environments**|Yu-Han Huang et.al.|[2501.10974](http://arxiv.org/abs/2501.10974)|null|
 |**2025-01-19**|**A Remote Sensing Image Change Detection Method Integrating Layer Exchange and Channel-Spatial Differences**|Sijun Dong et.al.|[2501.10905](http://arxiv.org/abs/2501.10905)|**[link](https://github.com/dyzy41/lenet)**|
 |**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
 |**2025-01-12**|**Semantic-CD: Remote Sensing Image Semantic Change Detection towards Open-vocabulary Setting**|Yongshuo Zhu et.al.|[2501.06808](http://arxiv.org/abs/2501.06808)|null|
