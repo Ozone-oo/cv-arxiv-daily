@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Quickest change detection for UAV-based sensing**|Saqib Abbas et.al.|[2504.07493](http://arxiv.org/abs/2504.07493)|null|
 |**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062](http://arxiv.org/abs/2504.05062)|null|
 |**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502](http://arxiv.org/abs/2504.03502)|null|
 |**2025-04-04**|**Water Mapping and Change Detection Using Time Series Derived from the Continuous Monitoring of Land Disturbance Algorithm**|Huong Pham et.al.|[2504.03170](http://arxiv.org/abs/2504.03170)|null|
@@ -2085,7 +2086,7 @@
 |**2025-04-08**|**Geospatial Artificial Intelligence for Satellite-based Flood Extent Mapping: Concepts, Advances, and Future Perspectives**|Hyunho Lee et.al.|[2504.02214](http://arxiv.org/abs/2504.02214)|null|
 |**2025-04-01**|**MSSFC-Net:Enhancing Building Interpretation with Multi-Scale Spatial-Spectral Feature Collaboration**|Dehua Huo et.al.|[2504.00759](http://arxiv.org/abs/2504.00759)|null|
 |**2025-04-01**|**Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning**|Qi Zang et.al.|[2504.00543](http://arxiv.org/abs/2504.00543)|null|
-|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|**[link](https://github.com/irip-buaa/a-review-for-remote-sensing-vision-language-models)**|
 |**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|**[link](https://github.com/zhouziyu-cn/SChanger)**|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-03-24**|**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**|Duowang Zhu et.al.|[2503.18803](http://arxiv.org/abs/2503.18803)|null|
