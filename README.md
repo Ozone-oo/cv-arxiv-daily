@@ -2078,6 +2078,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080](http://arxiv.org/abs/2504.11080)|null|
+|**2025-04-15**|**A Quantum Advantage in Localizing Transmission Loss Change in Optical Networks**|Yufei Zheng et.al.|[2504.10882](http://arxiv.org/abs/2504.10882)|null|
+|**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
 |**2025-04-14**|**BLAST: Bayesian online change-point detection with structured image data**|Xiaojun Zheng et.al.|[2504.09783](http://arxiv.org/abs/2504.09783)|null|
 |**2025-04-10**|**Quickest change detection for UAV-based sensing**|Saqib Abbas et.al.|[2504.07493](http://arxiv.org/abs/2504.07493)|null|
 |**2025-04-15**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062](http://arxiv.org/abs/2504.05062)|null|
