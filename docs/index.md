@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|
+|**2025-04-14**|**You've Changed: Detecting Modification of Black-Box Large Language Models**|Alden Dima et.al.|[2504.12335](http://arxiv.org/abs/2504.12335)|null|
 |**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080](http://arxiv.org/abs/2504.11080)|null|
 |**2025-04-15**|**A Quantum Advantage in Localizing Transmission Loss Change in Optical Networks**|Yufei Zheng et.al.|[2504.10882](http://arxiv.org/abs/2504.10882)|null|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
