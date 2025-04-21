@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
+|**2025-04-18**|**HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection**|Qi'ao Xu et.al.|[2504.13428](http://arxiv.org/abs/2504.13428)|null|
 |**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|
 |**2025-04-14**|**You've Changed: Detecting Modification of Black-Box Large Language Models**|Alden Dima et.al.|[2504.12335](http://arxiv.org/abs/2504.12335)|null|
 |**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080](http://arxiv.org/abs/2504.11080)|**[link](https://github.com/elman295/cssm)**|
