@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Quantum-Enhanced Change Detection and Joint Communication-Detection**|Zihao Gong et.al.|[2504.17237](http://arxiv.org/abs/2504.17237)|null|
 |**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
 |**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
