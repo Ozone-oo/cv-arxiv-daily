@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Lightweight Adapter Learning for More Generalized Remote Sensing Change Detection**|Dou Quan et.al.|[2504.19598](http://arxiv.org/abs/2504.19598)|null|
 |**2025-04-24**|**Bernstein Polynomial Processes for Continuous Time Change Detection**|Dan Cunha et.al.|[2504.17876](http://arxiv.org/abs/2504.17876)|null|
 |**2025-04-24**|**Quantum-Enhanced Change Detection and Joint Communication-Detection**|Zihao Gong et.al.|[2504.17237](http://arxiv.org/abs/2504.17237)|null|
 |**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
