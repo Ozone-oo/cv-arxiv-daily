@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2057,7 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-04-28**|**Lightweight Adapter Learning for More Generalized Remote Sensing Change Detection**|Dou Quan et.al.|[2504.19598](http://arxiv.org/abs/2504.19598)|null|
 |**2025-04-24**|**Bernstein Polynomial Processes for Continuous Time Change Detection**|Dan Cunha et.al.|[2504.17876](http://arxiv.org/abs/2504.17876)|null|
 |**2025-04-24**|**Quantum-Enhanced Change Detection and Joint Communication-Detection**|Zihao Gong et.al.|[2504.17237](http://arxiv.org/abs/2504.17237)|null|
