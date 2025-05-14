@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2058,7 +2058,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-10**|**8 Years of Optimizing Apache Otava: How disconnected open source developers took an algorithm from n3 to constant time**|Henrik Ingo et.al.|[2505.06758](http://arxiv.org/abs/2505.06758)|null|
-|**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|null|
+|**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
 |**2025-05-07**|**Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection**|Athulya Ratnayake et.al.|[2505.04199](http://arxiv.org/abs/2505.04199)|**[link](https://github.com/Buddhi19/SCanNet)**|
 |**2025-05-07**|**Regularized Fingerprinting with Linearly Optimal Weight Matrix in Detection and Attribution of Climate Change**|Haoran Li et.al.|[2505.04070](http://arxiv.org/abs/2505.04070)|null|
 |**2025-05-06**|**Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence**|Xin Wanga et.al.|[2505.03966](http://arxiv.org/abs/2505.03966)|null|
