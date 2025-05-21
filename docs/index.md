@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2064,7 +2064,7 @@ layout: default
 |**2025-05-10**|**8 Years of Optimizing Apache Otava: How disconnected open source developers took an algorithm from n3 to constant time**|Henrik Ingo et.al.|[2505.06758](http://arxiv.org/abs/2505.06758)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
 |**2025-05-07**|**Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection**|Athulya Ratnayake et.al.|[2505.04199](http://arxiv.org/abs/2505.04199)|**[link](https://github.com/Buddhi19/SCanNet)**|
-|**2025-05-07**|**Regularized Fingerprinting with Linearly Optimal Weight Matrix in Detection and Attribution of Climate Change**|Haoran Li et.al.|[2505.04070](http://arxiv.org/abs/2505.04070)|null|
+|**2025-05-20**|**Regularized Fingerprinting with Linearly Optimal Weight Matrix in Detection and Attribution of Climate Change**|Haoran Li et.al.|[2505.04070](http://arxiv.org/abs/2505.04070)|null|
 |**2025-05-15**|**Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence**|Xin Wang et.al.|[2505.03966](http://arxiv.org/abs/2505.03966)|null|
 |**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|**[link](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)**|
 |**2025-04-28**|**Lightweight Adapter Learning for More Generalized Remote Sensing Change Detection**|Dou Quan et.al.|[2504.19598](http://arxiv.org/abs/2504.19598)|null|
