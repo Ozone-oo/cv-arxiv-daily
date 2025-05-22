@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**CEBSNet: Change-Excited and Background-Suppressed Network with Temporal Dependency Modeling for Bitemporal Change Detection**|Qi'ao Xu et.al.|[2505.15322](http://arxiv.org/abs/2505.15322)|null|
 |**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
 |**2025-05-19**|**RB-SCD: A New Benchmark for Semantic Change Detection of Roads and Bridges in Traffic Scenes**|Qingling Shu et.al.|[2505.13212](http://arxiv.org/abs/2505.13212)|null|
 |**2025-05-18**|**Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction**|Sijie Zhao et.al.|[2505.12280](http://arxiv.org/abs/2505.12280)|**[link](https://github.com/walking-shadow/official_tssun)**|
