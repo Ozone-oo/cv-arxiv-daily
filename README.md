@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Optimal Online Change Detection via Random Fourier Features**|Florian Kalinke et.al.|[2505.17789](http://arxiv.org/abs/2505.17789)|null|
 |**2025-05-22**|**Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data**|Chia-Hsiang Lin et.al.|[2505.16391](http://arxiv.org/abs/2505.16391)|null|
 |**2025-05-21**|**CEBSNet: Change-Excited and Background-Suppressed Network with Temporal Dependency Modeling for Bitemporal Change Detection**|Qi'ao Xu et.al.|[2505.15322](http://arxiv.org/abs/2505.15322)|null|
 |**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
