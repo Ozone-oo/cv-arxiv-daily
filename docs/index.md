@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding**|Weihao Xuan et.al.|[2505.21076](http://arxiv.org/abs/2505.21076)|null|
+|**2025-05-26**|**What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models**|Lorenzo Baraldi et.al.|[2505.20405](http://arxiv.org/abs/2505.20405)|null|
 |**2025-05-23**|**Optimal Online Change Detection via Random Fourier Features**|Florian Kalinke et.al.|[2505.17789](http://arxiv.org/abs/2505.17789)|null|
 |**2025-05-22**|**Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data**|Chia-Hsiang Lin et.al.|[2505.16391](http://arxiv.org/abs/2505.16391)|null|
 |**2025-05-21**|**CEBSNet: Change-Excited and Background-Suppressed Network with Temporal Dependency Modeling for Bitemporal Change Detection**|Qi'ao Xu et.al.|[2505.15322](http://arxiv.org/abs/2505.15322)|null|
