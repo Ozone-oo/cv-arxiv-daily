@@ -2078,6 +2078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Training-free AI for Earth Observation Change Detection using Physics Aware Neuromorphic Networks**|Stephen Smith et.al.|[2506.04285](http://arxiv.org/abs/2506.04285)|null|
 |**2025-06-02**|**MMD-Sense-Analysis: Word Sense Detection Leveraging Maximum Mean Discrepancy**|Kensuke Mitsuzawa et.al.|[2506.01602](http://arxiv.org/abs/2506.01602)|null|
 |**2025-06-01**|**Multiresolution Analysis and Statistical Thresholding on Dynamic Networks**|Raphaël Romero et.al.|[2506.01208](http://arxiv.org/abs/2506.01208)|null|
 |**2025-05-27**|**DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding**|Weihao Xuan et.al.|[2505.21076](http://arxiv.org/abs/2505.21076)|null|
