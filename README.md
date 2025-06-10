@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
+|**2025-06-08**|**Change-Points Detection and Support Recovery for Spatially Indexed Functional Data**|Fengyi Song et.al.|[2506.07206](http://arxiv.org/abs/2506.07206)|null|
 |**2025-06-04**|**Training-free AI for Earth Observation Change Detection using Physics Aware Neuromorphic Networks**|Stephen Smith et.al.|[2506.04285](http://arxiv.org/abs/2506.04285)|null|
 |**2025-06-02**|**MMD-Sense-Analysis: Word Sense Detection Leveraging Maximum Mean Discrepancy**|Kensuke Mitsuzawa et.al.|[2506.01602](http://arxiv.org/abs/2506.01602)|null|
 |**2025-06-01**|**Multiresolution Analysis and Statistical Thresholding on Dynamic Networks**|Raphaël Romero et.al.|[2506.01208](http://arxiv.org/abs/2506.01208)|null|
