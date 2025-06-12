@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2057,8 +2057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
 |**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
-|**2025-06-08**|**Change-Points Detection and Support Recovery for Spatially Indexed Functional Data**|Fengyi Song et.al.|[2506.07206](http://arxiv.org/abs/2506.07206)|null|
+|**2025-06-11**|**Change-Points Detection and Support Recovery for Spatially Indexed Functional Data**|Fengyi Song et.al.|[2506.07206](http://arxiv.org/abs/2506.07206)|null|
 |**2025-06-04**|**Training-free AI for Earth Observation Change Detection using Physics Aware Neuromorphic Networks**|Stephen Smith et.al.|[2506.04285](http://arxiv.org/abs/2506.04285)|null|
 |**2025-06-02**|**MMD-Sense-Analysis: Word Sense Detection Leveraging Maximum Mean Discrepancy**|Kensuke Mitsuzawa et.al.|[2506.01602](http://arxiv.org/abs/2506.01602)|null|
 |**2025-06-01**|**Multiresolution Analysis and Statistical Thresholding on Dynamic Networks**|Raphaël Romero et.al.|[2506.01208](http://arxiv.org/abs/2506.01208)|null|
