@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Environmental Change Detection: Toward a Practical Task of Scene Change Detection**|Kyusik Cho et.al.|[2506.11481](http://arxiv.org/abs/2506.11481)|null|
+|**2025-06-12**|**Do We Still Need Audio? Rethinking Speaker Diarization with a Text-Based Approach Using Multiple Prediction Models**|Peilin Wu et.al.|[2506.11344](http://arxiv.org/abs/2506.11344)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
 |**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
 |**2025-06-11**|**Change-Points Detection and Support Recovery for Spatially Indexed Functional Data**|Fengyi Song et.al.|[2506.07206](http://arxiv.org/abs/2506.07206)|null|
