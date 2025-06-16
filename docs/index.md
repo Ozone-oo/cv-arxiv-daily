@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2061,7 +2061,7 @@ layout: default
 |**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
 |**2025-06-11**|**Change-Points Detection and Support Recovery for Spatially Indexed Functional Data**|Fengyi Song et.al.|[2506.07206](http://arxiv.org/abs/2506.07206)|null|
 |**2025-06-04**|**Training-free AI for Earth Observation Change Detection using Physics Aware Neuromorphic Networks**|Stephen Smith et.al.|[2506.04285](http://arxiv.org/abs/2506.04285)|null|
-|**2025-06-02**|**MMD-Sense-Analysis: Word Sense Detection Leveraging Maximum Mean Discrepancy**|Kensuke Mitsuzawa et.al.|[2506.01602](http://arxiv.org/abs/2506.01602)|null|
+|**2025-06-13**|**Word Sense Detection Leveraging Maximum Mean Discrepancy**|Kensuke Mitsuzawa et.al.|[2506.01602](http://arxiv.org/abs/2506.01602)|null|
 |**2025-06-01**|**Multiresolution Analysis and Statistical Thresholding on Dynamic Networks**|Raphaël Romero et.al.|[2506.01208](http://arxiv.org/abs/2506.01208)|null|
 |**2025-05-27**|**DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding**|Weihao Xuan et.al.|[2505.21076](http://arxiv.org/abs/2505.21076)|null|
 |**2025-05-26**|**What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models**|Lorenzo Baraldi et.al.|[2505.20405](http://arxiv.org/abs/2505.20405)|null|
