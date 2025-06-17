@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836](http://arxiv.org/abs/2506.12836)|null|
+|**2025-06-14**|**Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity**|Zhiyuan Su et.al.|[2506.12389](http://arxiv.org/abs/2506.12389)|null|
 |**2025-06-13**|**Environmental Change Detection: Toward a Practical Task of Scene Change Detection**|Kyusik Cho et.al.|[2506.11481](http://arxiv.org/abs/2506.11481)|null|
 |**2025-06-12**|**Do We Still Need Audio? Rethinking Speaker Diarization with a Text-Based Approach Using Multiple Prediction Models**|Peilin Wu et.al.|[2506.11344](http://arxiv.org/abs/2506.11344)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
