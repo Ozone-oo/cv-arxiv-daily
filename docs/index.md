@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2060,7 +2060,7 @@ layout: default
 |**2025-06-17**|**Active InSAR monitoring of building damage in Gaza during the Israel-Hamas War**|Corey Scher et.al.|[2506.14730](http://arxiv.org/abs/2506.14730)|null|
 |**2025-06-17**|**HydroChronos: Forecasting Decades of Surface Water Change**|Daniele Rege Cambrin et.al.|[2506.14362](http://arxiv.org/abs/2506.14362)|null|
 |**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836](http://arxiv.org/abs/2506.12836)|null|
-|**2025-06-14**|**Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity**|Zhiyuan Su et.al.|[2506.12389](http://arxiv.org/abs/2506.12389)|**[link](https://github.com/zhiyuansu0326/SeRe-KDD2025)**|
+|**2025-06-14**|**Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity**|Zhiyuan Su et.al.|[2506.12389](http://arxiv.org/abs/2506.12389)|**[link](https://github.com/zhiyuansu0326/sere)**|
 |**2025-06-13**|**Environmental Change Detection: Toward a Practical Task of Scene Change Detection**|Kyusik Cho et.al.|[2506.11481](http://arxiv.org/abs/2506.11481)|null|
 |**2025-06-12**|**Do We Still Need Audio? Rethinking Speaker Diarization with a Text-Based Approach Using Multiple Prediction Models**|Peilin Wu et.al.|[2506.11344](http://arxiv.org/abs/2506.11344)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
