@@ -2057,6 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
+|**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
 |**2025-06-24**|**3D-SSM: A Novel 3D Selective Scan Module for Remote Sensing Change Detection**|Rui Huang et.al.|[2506.19263](http://arxiv.org/abs/2506.19263)|null|
 |**2025-06-22**|**SegChange-R1:Augmented Reasoning for Remote Sensing Change Detection via Large Language Models**|Fei Zhou et.al.|[2506.17944](http://arxiv.org/abs/2506.17944)|null|
 |**2025-06-17**|**Active InSAR monitoring of building damage in Gaza during the Israel-Hamas War**|Corey Scher et.al.|[2506.14730](http://arxiv.org/abs/2506.14730)|null|
