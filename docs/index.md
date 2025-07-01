@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040](http://arxiv.org/abs/2506.24040)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
 |**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
 |**2025-06-24**|**3D-SSM: A Novel 3D Selective Scan Module for Remote Sensing Change Detection**|Rui Huang et.al.|[2506.19263](http://arxiv.org/abs/2506.19263)|null|
