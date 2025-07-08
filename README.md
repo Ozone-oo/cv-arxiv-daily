@@ -2078,6 +2078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-04**|**Information-Bottleneck Driven Binary Neural Network for Change Detection**|Kaijie Yin et.al.|[2507.03504](http://arxiv.org/abs/2507.03504)|null|
+|**2025-07-04**|**Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**|Blaž Rolih et.al.|[2507.03367](http://arxiv.org/abs/2507.03367)|null|
 |**2025-07-03**|**Flow-CDNet: A Novel Network for Detecting Both Slow and Fast Changes in Bitemporal Images**|Haoxuan Li et.al.|[2507.02307](http://arxiv.org/abs/2507.02307)|null|
 |**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980](http://arxiv.org/abs/2507.00980)|null|
 |**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040](http://arxiv.org/abs/2506.24040)|null|
