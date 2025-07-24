@@ -2057,6 +2057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Controllable Hybrid Captioner for Improved Long-form Video Understanding**|Kuleen Sasse et.al.|[2507.17047](http://arxiv.org/abs/2507.17047)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection**|Tao Wang et.al.|[2507.16172](http://arxiv.org/abs/2507.16172)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
